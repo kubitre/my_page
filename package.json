@@ -2,7 +2,7 @@
   "name": "my_page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kubitre.github.io/my_page",
+  "homepage": "https://kubitre.github.io",
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
