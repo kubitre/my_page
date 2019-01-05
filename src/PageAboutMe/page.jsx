@@ -22,7 +22,7 @@ export default class MyPage extends Component {
                 </div>
                 <span className="social_title">contact with me</span>
                 <div className="social_links">
-                    <a href="http://vk.com/vuil_smit"><div className="vk_button btn"/></a>
+                    <a href="https://vk.com/kubitre"><div className="vk_button btn"/></a>
                     <a href="#"><div className="discord_button btn"/></a>
                     <a href="#"><div className="telegram_button btn"/></a>
                     <a href="https://github.com/kubitre"><div className="github_button btn"/></a>
